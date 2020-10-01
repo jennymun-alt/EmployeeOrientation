@@ -1,5 +1,5 @@
 # EmployeeOrientation
-## Using a Code First approach
+## Using a "Code First" approach
 
 Database Diagram
 
